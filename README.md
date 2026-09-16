@@ -24,10 +24,7 @@
 
 </div>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ACTIVITY GRAPH                          -->
@@ -37,10 +34,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=P00KE00M&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 </div>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                               -->
@@ -90,10 +84,7 @@ const developer: Developer = {
 
 </div>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                             -->
@@ -160,10 +151,7 @@ const developer: Developer = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        GITHUB STATS                             -->
@@ -179,18 +167,19 @@ const developer: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P00KE00M&layout=compact&theme=one-dark&hide_border=true&langs_count=10" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P00KE00M&theme=one-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="97%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=P00KE00M&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 </div>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         WHAT I DO                               -->
@@ -210,10 +199,7 @@ const developer: Developer = {
 
 </div>
 
-<br/>
-
-<!-- Animated Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          QUOTE                                  -->
@@ -228,7 +214,7 @@ const developer: Developer = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                                 -->
