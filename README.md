@@ -45,10 +45,10 @@
 <!--                          ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  About Me
-</h2>
+  <font size="6"><b>About Me</b></font>
+</p>
 
 <div align="center">
 
@@ -97,15 +97,15 @@ const developer: Developer = {
 <!--                          TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  Tech Stack
-</h2>
+  <font size="6"><b>Tech Stack</b></font>
+</p>
 
-<h3 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%2356B6C2" width="20" align="center" />
-  Frontend & UI
-</h3>
+  <font size="5"><b>Frontend & UI</b></font>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -117,10 +117,10 @@ const developer: Developer = {
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-<h3 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/server.svg?color=%2398C379" width="20" align="center" />
-  Backend & API
-</h3>
+  <font size="5"><b>Backend & API</b></font>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -130,10 +130,10 @@ const developer: Developer = {
   <img src="https://img.shields.io/badge/REST_API-61AFEF?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<h3 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/database.svg?color=%23E5C07B" width="20" align="center" />
-  Database & Storage
-</h3>
+  <font size="5"><b>Database & Storage</b></font>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -142,10 +142,10 @@ const developer: Developer = {
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h3 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/tools.svg?color=%23C678DD" width="20" align="center" />
-  Dev Tools & Infrastructure
-</h3>
+  <font size="5"><b>Dev Tools & Infrastructure</b></font>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -166,10 +166,10 @@ const developer: Developer = {
 <!--                        GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/chart-box.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  GitHub Statistics
-</h2>
+  <font size="6"><b>GitHub Statistics</b></font>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P00KE00M&show_icons=true&theme=one-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
@@ -192,10 +192,10 @@ const developer: Developer = {
 <!--                        FEATURED PROJECTS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/folder-star.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  Featured Projects
-</h2>
+  <font size="6"><b>Featured Projects</b></font>
+</p>
 
 <div align="center">
 
@@ -226,10 +226,10 @@ const developer: Developer = {
 <!--                         WHAT I DO                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  What I Do
-</h2>
+  <font size="6"><b>What I Do</b></font>
+</p>
 
 <div align="center">
 
@@ -248,10 +248,10 @@ const developer: Developer = {
 <!--                           CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/link-variant.svg?color=%2361AFEF" width="28" height="28" align="center" />
-  Connect With Me
-</h2>
+  <font size="6"><b>Connect With Me</b></font>
+</p>
 
 <div align="center">
 
@@ -284,10 +284,10 @@ const developer: Developer = {
 <!--                          SUPPORT                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
+<p align="center">
   <img src="https://api.iconify.design/mdi/heart.svg?color=%23E06C75" width="28" height="28" align="center" />
-  Support & Appreciation
-</h2>
+  <font size="6"><b>Support & Appreciation</b></font>
+</p>
 
 <p align="center">
   <i>If you find my work helpful, consider giving a star to my repositories.</i>
@@ -314,6 +314,11 @@ const developer: Developer = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          QUOTE                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://api.iconify.design/mdi/format-quote-close.svg?color=%2361AFEF" width="28" height="28" align="center" />
+  <font size="6"><b>Quote</b></font>
+</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
