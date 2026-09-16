@@ -15,9 +15,7 @@
 
 ---
 
-<details>
-<summary><img src="https://api.iconify.design/mdi/account.svg?color=%2361AFEF" width="20" height="20" align="center" /> <b>About Me</b></summary>
-<br>
+### <img src="https://api.iconify.design/mdi/account.svg?color=%2361AFEF" width="22" height="22" align="center" /> About Me
 
 ```javascript
 const developer = {
@@ -29,13 +27,9 @@ const developer = {
 };
 ```
 
-</details>
-
 ---
 
-<details>
-<summary><img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%2361AFEF" width="20" height="20" align="center" /> <b>Tech Stack</b></summary>
-<br>
+### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%2361AFEF" width="22" height="22" align="center" /> Tech Stack
 
 **<img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%2361AFEF" width="18" height="18" align="center" /> Frontend & UI**
 
@@ -66,13 +60,9 @@ const developer = {
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-</details>
-
 ---
 
-<details>
-<summary><img src="https://api.iconify.design/mdi/chart-box.svg?color=%2361AFEF" width="20" height="20" align="center" /> <b>GitHub Statistics</b></summary>
-<br>
+### <img src="https://api.iconify.design/mdi/chart-box.svg?color=%2361AFEF" width="22" height="22" align="center" /> GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P00KE00M&show_icons=true&theme=one-dark&hide_border=true&count_private=true" width="48%" />
@@ -83,27 +73,17 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P00KE00M&theme=one-dark&hide_border=true" width="98%" />
 </p>
 
-</details>
+---
+
+### <img src="https://api.iconify.design/mdi/folder-star.svg?color=%2361AFEF" width="22" height="22" align="center" /> Featured Projects
+
+- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
+- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
+- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
 
 ---
 
-<details>
-<summary><img src="https://api.iconify.design/mdi/folder-star.svg?color=%2361AFEF" width="20" height="20" align="center" /> <b>Featured Projects</b></summary>
-<br>
-
-<!-- Add your projects here -->
-
-- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
-- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
-- **[Project Name](https://github.com/P00KE00M/project)** – Short description.
-
-</details>
-
----
-
-<details>
-<summary><img src="https://api.iconify.design/mdi/link-variant.svg?color=%2361AFEF" width="20" height="20" align="center" /> <b>Connect with Me</b></summary>
-<br>
+### <img src="https://api.iconify.design/mdi/link-variant.svg?color=%2361AFEF" width="22" height="22" align="center" /> Connect with Me
 
 <p align="left">
   <a href="https://github.com/P00KE00M">
@@ -119,8 +99,6 @@ const developer = {
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-</details>
 
 ---
 
