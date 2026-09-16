@@ -4,11 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,50:56B6C2,100:98C379&height=200&section=header&text=P00KE00M&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20API%20Architect%20%7C%20Tech%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,50:56B6C2,100:98C379&height=220&section=header&text=P00KE00M&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20API%20Architect%20%7C%20Tech%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/P00KE00M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+P00KE00M;Full-Stack+Web+%26+API+Developer;Building+Scalable+%26+Modern+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+P00KE00M;Full-Stack+Web+%26+API+Developer;Building+Scalable+%26+Modern+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -19,27 +17,30 @@
 
 <br/><br/>
 
-<a href="#about-me"><img src="https://img.shields.io/badge/About-Me-61AFEF?style=flat-square" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-Stack-56B6C2?style=flat-square" /></a>
-<a href="#github-stats"><img src="https://img.shields.io/badge/Statistics-98C379?style=flat-square" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-E5C07B?style=flat-square" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-C678DD?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/About-Me-61AFEF?style=flat-square" />
+<img src="https://img.shields.io/badge/Tech-Stack-56B6C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Statistics-98C379?style=flat-square" />
+<img src="https://img.shields.io/badge/Quote-E5C07B?style=flat-square" />
 
 </div>
 
 <br/>
+
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ACTIVITY GRAPH                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/P00KE00M">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=P00KE00M&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P00KE00M&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 </div>
 
 <br/>
+
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                               -->
@@ -91,7 +92,8 @@ const developer: Developer = {
 
 <br/>
 
----
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                             -->
@@ -145,6 +147,98 @@ const developer: Developer = {
 <p align="center">
   <img src="https://api.iconify.design/mdi/tools.svg?color=%23C678DD" width="20" align="center" />
   <font size="5"><b>Dev Tools & Infrastructure</b></font>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://api.iconify.design/mdi/chart-box.svg?color=%2361AFEF" width="28" height="28" align="center" />
+  <font size="6"><b>GitHub Statistics</b></font>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P00KE00M&show_icons=true&theme=one-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P00KE00M&layout=compact&theme=one-dark&hide_border=true&langs_count=10" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P00KE00M&theme=one-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="97%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=P00KE00M&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+</div>
+
+<br/>
+
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         WHAT I DO                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%2361AFEF" width="28" height="28" align="center" />
+  <font size="6"><b>What I Do</b></font>
+</p>
+
+<div align="center">
+
+| <img src="https://api.iconify.design/mdi/web.svg?color=%2361AFEF" width="20" /> | <img src="https://api.iconify.design/mdi/api.svg?color=%2398C379" width="20" /> | <img src="https://api.iconify.design/mdi/cloud-upload.svg?color=%23E5C07B" width="20" /> | <img src="https://api.iconify.design/mdi/school.svg?color=%23C678DD" width="20" /> |
+|:---:|:---:|:---:|:---:|
+| **Web Development** | **API Design** | **Cloud Deploy** | **Continuous Learning** |
+| Modern, responsive, and performant web applications | Clean, scalable RESTful APIs with best practices | Deploying and managing apps on cloud platforms | Always exploring new tech and frameworks |
+
+</div>
+
+<br/>
+
+<!-- Animated Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:61AFEF,100:98C379&height=3&section=header" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          QUOTE                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://api.iconify.design/mdi/format-quote-close.svg?color=%2361AFEF" width="28" height="28" align="center" />
+  <font size="6"><b>Quote of the Day</b></font>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61AFEF,50:56B6C2,100:98C379&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+</div>  <font size="5"><b>Dev Tools & Infrastructure</b></font>
 </p>
 
 <p align="center">
